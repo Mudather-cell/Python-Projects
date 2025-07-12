@@ -1,1 +1,3 @@
-
+Frequently, a directory contains a lot of files with names that are difficult to grasp or do not follow a certain pattern. 
+Manually renaming every file can be laborious and prone to mistakes.
+We need a tool that can rename a lot of files in bulk according to a predetermined pattern in order to tackle this issue.
