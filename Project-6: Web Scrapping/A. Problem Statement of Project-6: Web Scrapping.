@@ -1,1 +1,2 @@
-
+The assignment is to use Beautiful Soup in Python to scrape Wikipedia's list of the biggest US firms by revenue. 
+The rank, firm name, industry, revenue, revenue growth, and headquarters are among the data that must be extracted.
